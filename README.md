@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**meredith233/meredith233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔖 Github Status
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=yangyang0507&count_private=true&show_icons=true&theme=default" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangyang0507&layout=compact&theme=default" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🏆 Github Profile Trophy
+
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yangyang0507&column=8&margin-w=4"/>
+  </a>
+</p>
